@@ -1,2 +1,2 @@
-#!/bin/bas
+#!/bin/bash
 find hello -user guillaume -exec sudo chown vincent {} +3
