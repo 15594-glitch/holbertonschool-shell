@@ -1,2 +1,2 @@
 #!/bin/bash
-find hello -user guillaume -exec sudo chown vincent {} +3
+find hello -user guillaume -exec sudo chown vincent {} +
